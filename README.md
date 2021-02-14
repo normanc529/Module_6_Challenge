@@ -22,3 +22,4 @@ Taking data from 2010 to 2016, we also calculate the trend between the averages 
 
 after that, we plot the information with the mapbox API to visualize the most concentrated areas of price to value/living space
 
+![Screenshot 2021-02-14 025217](https://user-images.githubusercontent.com/75395061/107874636-b0b4db80-6e6f-11eb-89e4-f9265a60b01d.png)
